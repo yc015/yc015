@@ -2,13 +2,13 @@
 
 This is Yida! A young fella :man_student: with an active mind 	:brain: that aspires to make technology and data more accessible through intelligent systems and visualization tools.
 
-I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Toolkit/KALMUS) ![KALMUS Download Badge](https://img.shields.io/pypi/dm/kalmus). KALMUS is a software that helps film analysts to probe :mag: the color palette of their favorite movies :film_strip:.
+I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Toolkit/KALMUS), a software that helps film analysts to probe :mag: the color palette of their favorite movies :film_strip:. [![KALMUS Download Badge](https://img.shields.io/pypi/dm/kalmus)](https://pypi.org/project/kalmus/)
 
 My other projects focus on creating computer vision :eye: frameworks to solve the segmentation task of medical images :stethoscope:. You can find my publications from my [Google Scholar Profile](https://scholar.google.com/citations?user=PptmLrYAAAAJ&hl=en).
 
 You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
-[![Yida's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yc015&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Yida's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yc015&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <!--
 **yc015/yc015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
