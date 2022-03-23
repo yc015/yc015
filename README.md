@@ -1,6 +1,6 @@
 ### Welcome! :raised_hands:
 
-This is Yida! A young fella :man_student: with an active mind 	:brain: that aspires to make technology and data more accessible through intelligent systems and visualization tools.
+This is Yida! A young fella :man_student: with an active mind :brain: that aspires to make data more intelligible through intelligent systems and visualization tools.
 
 I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Toolkit/KALMUS), a software that helps film analysts to probe :mag: the color palette of their favorite movies :film_strip:. [![KALMUS Download Badge](https://img.shields.io/pypi/dm/kalmus)](https://pypi.org/project/kalmus/)
 
