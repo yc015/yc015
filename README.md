@@ -6,7 +6,7 @@ This is Yida! A Ph.D. student at Harvard's insight + interaction lab.
 
 I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Toolkit/KALMUS), a software that helps film analysts to probe :mag: the color palette of their favorite movies :film_strip:. [![KALMUS Download Badge](https://img.shields.io/pypi/dm/kalmus)](https://pypi.org/project/kalmus/)
 
-My other projects focus on creating computer vision :eye: frameworks to solve the segmentation task of medical images :stethoscope:. You can find my publications from my [Google Scholar Profile](https://scholar.google.com/citations?user=PptmLrYAAAAJ&hl=en).
+My other projects focus on creating computer vision :eye: frameworks to solve the segmentation task of medical images/videos :stethoscope:. You can find my publications from my [Google Scholar Profile](https://scholar.google.com/citations?user=PptmLrYAAAAJ&hl=en).
 
 You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
