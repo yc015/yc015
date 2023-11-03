@@ -15,9 +15,9 @@ You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 I am also an artist on JP internet. Below are selection of my works (**none of them are AI-generated** and if you use any of them please credit to **Yida / 易达**):
 
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
-  <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="333px" padding="0" margin="0"/>
-  <img src="https://github.com/yc015/yc015/assets/69224866/e926d5fd-ff60-457f-9867-2e9e37d02efb" height="333px" padding="0" margin="0"/>
-  <img src="https://github.com/yc015/yc015/assets/69224866/93216e2d-131e-4015-b227-54922ceae731" height="333px" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="233px" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/e926d5fd-ff60-457f-9867-2e9e37d02efb" height="233px" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/93216e2d-131e-4015-b227-54922ceae731" height="233px" padding="0" margin="0"/>
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
   <img src="https://github.com/yc015/yc015/assets/69224866/c5ed5554-b1ee-4cc9-b8cd-af7ae3221dc6" width="630px" padding="0" margin="0"/>
