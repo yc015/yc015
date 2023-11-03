@@ -20,8 +20,8 @@ I am also an artist on the JP internet. Below are selection of my works (**NONE 
   <img src="https://github.com/yc015/yc015/assets/69224866/93216e2d-131e-4015-b227-54922ceae731" height="300px" padding="0" margin="0"/>
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
-  <img src="https://github.com/yc015/yc015/assets/69224866/c5ed5554-b1ee-4cc9-b8cd-af7ae3221dc6" width="570px" padding="0" margin="0"/>
-  <img src="https://github.com/yc015/yc015/assets/69224866/551c43ac-aa21-456d-b33f-755e012b70be" height="315px" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/c5ed5554-b1ee-4cc9-b8cd-af7ae3221dc6" width="825px" padding="0" margin="0"/>
+<!--   <img src="https://github.com/yc015/yc015/assets/69224866/551c43ac-aa21-456d-b33f-755e012b70be" height="315px" padding="0" margin="0"/> -->
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
   
