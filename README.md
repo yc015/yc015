@@ -14,23 +14,6 @@ You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
 I am also an artist on JP internet. Below are selection of my works (**none of them are AI-generated** and if you use any of them please credit to **Yida / 易达**):
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create two equal columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
-
 <div style="display:flex; flex-wrap:wrap; padding: 0 4px;">
   <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="400px"/>
   <img src="https://github.com/yc015/yc015/assets/69224866/e926d5fd-ff60-457f-9867-2e9e37d02efb" height="400px"/>
