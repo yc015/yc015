@@ -1,6 +1,6 @@
 ### Welcome! :raised_hands:
 
-<!-- This is Yida! A young fella :man_student: with an active mind :brain: that aspires to make data more intelligible through intelligent systems and visualization tools. -->
+<!-- This is Yida! A young fella :man_student: with an active mind :brain: that aspires to make ML / AI more intelligible through mechanistic interpretability and visualization tools. -->
 
 This is Yida! A Ph.D. student at Harvard's insight + interaction lab.
 
@@ -11,6 +11,37 @@ My other projects focus on creating computer vision :eye: frameworks to solve th
 You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
 ![Yida's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yc015&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+I am also an artist on JP internet. Below are selection of my works (**none of them are AI-generated** and if you use any of them please credit to **Yida / 易达**):
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+<div style="display:flex; flex-wrap:wrap; padding: 0 4px;">
+  <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="400px"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/e926d5fd-ff60-457f-9867-2e9e37d02efb" height="400px"/>
+</div>
+<div style="display:flex; flex-wrap:wrap; padding: 0 4px;">
+  <img src="https://github.com/yc015/yc015/assets/69224866/c5ed5554-b1ee-4cc9-b8cd-af7ae3221dc6" width="662px"/>
+</div>
+<div style="display:flex; flex-wrap:wrap; padding: 0 4px;">
+  <img src="https://github.com/yc015/yc015/assets/69224866/93216e2d-131e-4015-b227-54922ceae731" height="350px"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/551c43ac-aa21-456d-b33f-755e012b70be" height="350px"/>
+</div>
 
 <!--
 **yc015/yc015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
