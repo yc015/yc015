@@ -16,7 +16,7 @@ I am also an artist on the JP internet. Below are selection of my works (**NONE 
 
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
   <img src="https://github.com/yc015/yc015/assets/69224866/93216e2d-131e-4015-b227-54922ceae731" height="400px" padding="0" margin="0"/>
-  <img src="https://github.com/yc015/yc015/assets/69224866/e926d5fd-ff60-457f-9867-2e9e37d02efb" height="400px" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/7ef3d28d-e2f2-4752-8119-4cb546dd89d4" height="400px" padding="0" margin="0"/>
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
   <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="326px" padding="0" margin="0"/>
@@ -24,8 +24,8 @@ I am also an artist on the JP internet. Below are selection of my works (**NONE 
 <!--   <img src="https://github.com/yc015/yc015/assets/69224866/551c43ac-aa21-456d-b33f-755e012b70be" height="315px" padding="0" margin="0"/> -->
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
-  
-  
+
+
 </div>
 
 <!--
