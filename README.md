@@ -16,8 +16,8 @@ You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 I am also an artist on the JP internet. Below are selections of my works (**NONE of them are AI-generated**):
 
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
-  <img src="https://github.com/yc015/yc015/assets/69224866/c6dde564-4e51-488b-8c50-61f0043d7375" width="436px" padding="0" margin="0"/>
   <img src="https://github.com/yc015/yc015/assets/69224866/7ef3d28d-e2f2-4752-8119-4cb546dd89d4" width="378px" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/7a42ca4d-3dbb-420e-a9af-deaec238e85d" width="436px" padding="0" margin="0"/>
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
   <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="326px" padding="0" margin="0"/>
