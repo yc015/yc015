@@ -13,7 +13,7 @@ You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
 ![Yida's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yc015&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-I am also an artist on the JP internet. Below are selections of my works (**NONE of them are AI-generated** and if you would like to use any of them please credit to **Yida / 易达**):
+I am also an artist on the JP internet. Below are selections of my works (**NONE of them are AI-generated**):
 
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
   <img src="https://github.com/yc015/yc015/assets/69224866/c6dde564-4e51-488b-8c50-61f0043d7375" width="436px" padding="0" margin="0"/>
