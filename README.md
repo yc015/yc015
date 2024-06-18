@@ -2,12 +2,11 @@
 
 <!-- This is Yida! A young fella :man_student: with an active mind :brain: that aspires to make ML / AI more intelligible through mechanistic interpretability and visualization tools. -->
 
-This is Yida! A Ph.D. student at Harvard's insight + interaction lab.
+This is Yida! A CS Ph.D. student at Harvard's [insight + interaction lab](https://insight.seas.harvard.edu/).
 
 I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Toolkit/KALMUS), a software that helps film analysts to probe :mag: the color palette of their favorite movies :film_strip:. [![KALMUS Download Badge](https://img.shields.io/pypi/dm/kalmus)](https://pypi.org/project/kalmus/)
 
-My other projects focus on creating computer vision :eye: frameworks to solve the segmentation task of medical images/videos :stethoscope:. You can find my publications from my [Google Scholar Profile](https://scholar.google.com/citations?user=PptmLrYAAAAJ&hl=en).
-
+You can find my works here: [Google Scholar Profile](https://scholar.google.com/citations?user=PptmLrYAAAAJ&hl=en).
 
 You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
