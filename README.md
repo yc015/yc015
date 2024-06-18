@@ -15,13 +15,13 @@ You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
 I am also a digital artist on the JP internet. Below are selections of my works (**NONE of them are AI-generated**):
 
-<div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
-  <img src="https://github.com/yc015/yc015/assets/69224866/7ef3d28d-e2f2-4752-8119-4cb546dd89d4" width="378px" padding="0" margin="0"/>
-  <img src="https://github.com/yc015/yc015/assets/69224866/7a42ca4d-3dbb-420e-a9af-deaec238e85d" width="436px" padding="0" margin="0"/>
+<div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0; width: fit-content">
+  <img src="https://github.com/yc015/yc015/assets/69224866/7ef3d28d-e2f2-4752-8119-4cb546dd89d4" width="45.45%" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/7a42ca4d-3dbb-420e-a9af-deaec238e85d" width="52.45%" padding="0" margin="0"/>
 </div>
-<div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
-  <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" height="326px" padding="0" margin="0"/>
-  <img src="https://github.com/yc015/yc015/assets/69224866/c5ed5554-b1ee-4cc9-b8cd-af7ae3221dc6" width="592px" padding="0" margin="0"/>
+<div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0; width: fit-content">
+  <img src="https://github.com/yc015/yc015/assets/69224866/bc0c7b9f-e5ec-46fa-81ee-4fcda813dfa5" width="26.9%" padding="0" margin="0"/>
+  <img src="https://github.com/yc015/yc015/assets/69224866/c5ed5554-b1ee-4cc9-b8cd-af7ae3221dc6" width="71%" padding="0" margin="0"/>
 <!--   <img src="https://github.com/yc015/yc015/assets/69224866/551c43ac-aa21-456d-b33f-755e012b70be" height="315px" padding="0" margin="0"/> -->
 </div>
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0;">
