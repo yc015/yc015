@@ -6,7 +6,7 @@ This is Yida! A CS Ph.D. student at Harvard's [insight + interaction lab](https:
 
 I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Toolkit/KALMUS), a software that helps film analysts to probe :mag: the color palette of their favorite movies :film_strip:. [![KALMUS Download Badge](https://img.shields.io/pypi/dm/kalmus)](https://pypi.org/project/kalmus/)
 
-You can find my works here: [Google Scholar Profile](https://scholar.google.com/citations?user=PptmLrYAAAAJ&hl=en).
+You can find my works here: [https://www.semanticscholar.org/author/Yida-Chen/16099092](https://www.semanticscholar.org/author/Yida-Chen/16099092).
 
 You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
