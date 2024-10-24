@@ -8,11 +8,11 @@ I am the developer of [KALMUS Color Toolkit](https://github.com/KALMUS-Color-Too
 
 You can find my works here: [https://www.semanticscholar.org/author/Yida-Chen/16099092](https://www.semanticscholar.org/author/Yida-Chen/16099092).
 
-You are welcome to reach me through email :e-mail:: <yidachen@g.harvard.edu>
+You can reach me through email :e-mail:: <yidachen@g.harvard.edu>
 
 ![Yida's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yc015&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-I am also a digital artist on the JP internet. Below are selections of my works (**NONE of them are AI-generated**):
+I am also a digital artist on the JP internet. Below are selections of my works (**not AI-generated or assisted**):
 
 <div style="display:flex; flex-wrap:wrap; padding: 0; margin: 0; width: fit-content">
   <img src="https://github.com/yc015/yc015/assets/69224866/7ef3d28d-e2f2-4752-8119-4cb546dd89d4" width="45.45%" padding="0" margin="0"/>
